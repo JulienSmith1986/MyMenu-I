@@ -6,7 +6,7 @@ public class Order {
 	 */
 	public void displayAvailableMenu() {
 		System.out.println("Choix menu");
-		System.out.println("1- poulet");
+		System.out.println("1 - poulet");
 		System.out.println("2 - boeuf");
 		System.out.println("3 - végétarien");
 		System.out.println("Que souhaitez-vous comme menu ?");
